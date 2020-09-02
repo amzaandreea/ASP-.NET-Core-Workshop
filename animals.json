@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Pablo",
+    "age": 3,
+    "weight": [
+      3,
+      10,
+      24
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pablo-little.jpeg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pablo-medium.jpeg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pablo-large.jpg",
+    "fat": 2
+  },
+  {
+    "id": 2,
+    "name": "Juan",
+    "age": 2,
+    "weight": [
+      2,
+      6,
+      15
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/juan-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/juan-medium.jpeg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/juan-fat.jpg",
+    "fat": 2
+  },
+  {
+    "id": 3,
+    "name": "Chandler",
+    "age": 22,
+    "weight": [
+      0.2,
+      0.5,
+      1.2
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chandler-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chandler-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chandler-large.png",
+    "fat": 2
+  },
+  {
+    "id": 4,
+    "name": "Rimba",
+    "age": 4,
+    "weight": [
+      30,
+      78,
+      164
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/rimba-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/rimba-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/rimba-large.png",
+    "fat": 1
+  },
+  {
+    "id": 5,
+    "name": "Micha",
+    "age": 11,
+    "weight": [
+      1,
+      4,
+      9
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/micha-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/micha-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/micha-large.png",
+    "fat": 2
+  },
+  {
+    "id": 6,
+    "name": "Ken",
+    "age": 14,
+    "weight": [
+      56,
+      130,
+      504
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/ken-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/ken-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/ken-large.jpg",
+    "fat": 2
+  },
+  {
+    "id": 7,
+    "name": "Fifian",
+    "age": 6,
+    "weight": [
+      0.1,
+      0.4,
+      405
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/fifian-small.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/fifian-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/fifian-large.jpg",
+    "fat": 2
+  },
+  {
+    "id": 8,
+    "name": "Pancake",
+    "age": 41,
+    "weight": [
+      34,
+      102,
+      343
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pancake-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pancake-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/pancake-large.jpg",
+    "fat": 2
+  },
+  {
+    "id": 9,
+    "name": "Chimi",
+    "age": 3,
+    "weight": [
+      12,
+      103,
+      265
+    ],
+    "imageSmall": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chimi-little.jpg",
+    "imageMedium": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chimi-medium.jpg",
+    "imageLarge": "https://storageresourcesgia.blob.core.windows.net/asp-net-core-workshop-images/chimi-fat.jpg",
+    "fat": 2
+  }
+]
