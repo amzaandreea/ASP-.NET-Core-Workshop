@@ -1,0 +1,25 @@
+<div class="card-columns">
+    @foreach (var animal in Model.Animals)
+    {
+        <div class="card" >
+
+            @if (@animal.Fat == 0)
+            {
+                <div class="card-img" style="background-image: url('@animal.ImageSmall');"></div>
+            }
+            else if (@animal.Fat == 1)
+            {
+                <div class="card-img" style="background-image: url('@animal.ImageMedium');"></div>
+            }
+            else
+            {
+                <div class="card-img" style="background-image: url('@animal.ImageLarge');"></div>
+            }
+            <div class="card-body">
+                <h5 class="card-title">
+                    Hello! My name is @animal.Name, I am @animal.Age years and I weigh @animal.Weight[animal.Fat] kg
+                </h5>
+            </div>
+        </div>
+    }
+</div>
